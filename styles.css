@@ -51,7 +51,8 @@ button{font-family:inherit;color:inherit;background:none;border:none;cursor:poin
  linear-gradient(0deg,rgba(5,7,12,.82) 0%,rgba(5,7,12,.45) 30%,rgba(5,7,12,0) 55%)}
 .scene-content{position:relative;width:100%;padding:0 18px calc(env(safe-area-inset-bottom,0px) + 116px)}
 .scene-text{font-size:21px;font-weight:600;line-height:1.32;letter-spacing:-.3px;text-shadow:0 2px 16px rgba(0,0,0,.5);
- display:-webkit-box;-webkit-line-clamp:6;-webkit-box-orient:vertical;overflow:hidden;white-space:pre-wrap;word-wrap:break-word}
+ display:-webkit-box;-webkit-line-clamp:6;-webkit-box-orient:vertical;overflow:hidden;white-space:pre-wrap;word-wrap:break-word;
+ padding-right:62px}
 .scene-text.long{font-size:17px;font-weight:500}
 .cw-banner{display:inline-flex;align-items:center;gap:7px;margin-bottom:10px;padding:7px 12px;border-radius:14px;
  background:rgba(20,24,34,.6);border:.5px solid rgba(255,255,255,.2);backdrop-filter:blur(12px);font-size:12.5px;font-weight:600}
